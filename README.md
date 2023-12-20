@@ -1,1 +1,2 @@
 # Time-Series-Analysis---Covid19UK
+In the following portfolio we have been provided with Covid cases data from 1st January 2020 to 14th June 2020 and we are asked to predict the number of covid cases from 15-21 june 2020. We will be appropriate ARIMA model and estimate the model describing number of Covid19 cases per day in SPSS Statistics. The method we will be using for our analysis is Time-series method
